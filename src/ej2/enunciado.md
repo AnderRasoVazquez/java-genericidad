@@ -1,0 +1,2 @@
+# Ejercicio 2:
+Tenemos una Colección personas, caracterizadas por su nombre y edad. Obtener la edad media de las personas de la Colección. Mostrar el nombre y edad de aquellas que son mayores que la media. 
